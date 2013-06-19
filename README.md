@@ -2,7 +2,7 @@
 
 a Module that scrape a business page on YP and return business name and phone
 
-## Usage
+## Example
 
 ```js
 var scrape = require('./scrape.js');

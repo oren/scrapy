@@ -25,5 +25,6 @@ var scrape = require('./scrape.js');
 scrape(url, cb);
 ```
 
-Get business name and phone of a given url. `cb` is a callback.
-cb(err, data) fires with the scraped information.
+Get business name and phone of a given `url`. `cb` is a callback.
+
+`cb(err, data)` fires with the scraped information.

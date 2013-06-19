@@ -1,4 +1,6 @@
-# Module that scrape a business page on YP and return business name and phone
+# Scrapy 
+
+a Module that scrape a business page on YP and return business name and phone
 
 ## Usage
 
